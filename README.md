@@ -15,7 +15,7 @@ git add README.md
 
 git commit -m "primer commit"
 
-git branch -M main
+git branch -M main    ---- ESTE NO LO PUSE EN MI ANTERIOR COMMIT Y SE SUBIÓ, NO SE QUE PASÓ PERO FUNCIONÓ
 
 git remote add origin https://github.com/Jonathan-Glz/PrepCourse-Henry-NoReadme.git
 
